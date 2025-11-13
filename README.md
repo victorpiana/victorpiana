@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Victor Piana</h1>
 <h3 align="center">Computer Science Inginneering</h3>
 
-- ⚙️ My Current Focus **ETL Automation & Data Operations**
+- ⚙️ My Current Focus: **ETL Automation & Data Operations**
 
-- 🌱 Key Focus **Databricks, Tableau, Power BI, LLMs/GenAI**
+- 🌱 Key Focus: **Databricks, Tableau, Power BI, LLMs/GenAI**
 
-- 👯 Seeking Full-Time Internship **Data Engineering / Analytics (Feb 2026, 6 months)**
+- 👯 Seeking Full-Time Internship: **Data Engineering / Analytics (Feb 2026, 6 months)**
 
-- 🤝 Key Areas of Interest **Roles maximizing SQL, Python, & BI to drive Pricing/Monetization Strategy**
+- 🤝 Key Areas of Interest: **Roles maximizing SQL, Python, & BI to drive Pricing/Monetization Strategy**
 
-- 👨‍💻 My Code Portfolio [https://github.com/victorpiana](https://github.com/victorpiana)
+- 👨‍💻 My Code Portfolio: [https://github.com/victorpiana](https://github.com/victorpiana)
 
-- 📝 Know About My Experience [https://drive.google.com/file/d/1SNo2BHTpMmb9IWMNkpgUgsD22myukgRA/view?usp=sharing](https://drive.google.com/file/d/1SNo2BHTpMmb9IWMNkpgUgsD22myukgRA/view?usp=sharing)
+- 📝 Know About My Experience: [https://drive.google.com/file/d/1SNo2BHTpMmb9IWMNkpgUgsD22myukgRA/view?usp=sharing](https://drive.google.com/file/d/1SNo2BHTpMmb9IWMNkpgUgsD22myukgRA/view?usp=sharing)
 
-- 💬 Ask me about **SQL/Python Data Pipelines, ETL, Data Quality, or System Integration**
+- 💬 Ask me about: **SQL/Python Data Pipelines, ETL, API, Data Quality, or System Integration**
 
 - 📫 How to reach me **victorpiana13@gmail.com**
 
