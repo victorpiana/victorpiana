@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Piana</h1>
-<h3 align="center">5th Year Computer Science Inginneering Student</h3>
+<h3 align="center">Fifth-year computer engineering student</h3>
 
 - ⚙️ My Current Focus: **ETL Automation & Data Operations**
 
