@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Piana</h1>
 <h3 align="center">Computer Science Inginneering</h3>
 
-- ⚙️ My Current Focus **ETL Automation & Data Operations (Award Winner) @ bsport**
+- ⚙️ My Current Focus **ETL Automation & Data Operations**
 
 - 🌱 Key Focus **Databricks, Tableau, Power BI, LLMs/GenAI**
 
