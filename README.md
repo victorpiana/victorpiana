@@ -15,11 +15,11 @@
 
 - 💬 Ask me about: **SQL/Python Data Pipelines, ETL, API, Data Quality, or System Integration**
 
-- 📫 How to reach me **victorpiana13@gmail.com**
+- 📫 How to reach me: **victorpiana13@gmail.com**
 
-- 📄 Linkedin [https://www.linkedin.com/in/victor-piana-107230238/](https://www.linkedin.com/in/victor-piana-107230238/)
+- 📄 Linkedin: [https://www.linkedin.com/in/victor-piana-107230238/](https://www.linkedin.com/in/victor-piana-107230238/)
 
-- ⚡ Fun fact **Pianist, Competitive Fitness, Trilingual Traveler (ES/AR)**
+- ⚡ Fun fact: **Pianist, Competitive Fitness, Trilingual Traveler (ES/AR)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
