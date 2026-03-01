@@ -1,25 +1,27 @@
 <h1 align="center">Hi 👋, I'm Victor Piana</h1>
-<h3 align="center">Fifth-year computer engineering student</h3>
+<h3 align="center">Engineering Student | Data & Product Enthusiast</h3>
 
-- ⚙️ My Current Focus: **ETL Automation & Data Operations**
+- 💼 Currently: **Data & ETL Developer Intern @ Sopra Steria**
 
-- 🌱 Key Focus: **Databricks, Tableau, Power BI, LLMs/GenAI**
+- ⚙️ My Current Focus: **ETL Automation, Data Workflows & Information Systems Architecture**
 
-- 👯 Seeking Full-Time Internship: **Data Engineering / Analytics (Feb 2026, 6 months)**
+- 🌱 Tech Stack & Tools: **SQL, Python (Pandas), Talend, Git & AI Basics**
 
-- 🤝 Key Areas of Interest: **Roles maximizing SQL, Python, & BI to drive Pricing/Monetization Strategy**
+- 🎯 Goal: **Bridging technical execution with product and business strategy**
+
+- 🤝 Key Areas of Interest: **Product Management, Data Analytics, Pricing Strategy & Monetization ...**
 
 - 👨‍💻 My Code Portfolio: [https://github.com/victorpiana](https://github.com/victorpiana)
 
-- 📝 Know About My Experience: [https://drive.google.com/file/d/1SNo2BHTpMmb9IWMNkpgUgsD22myukgRA/view?usp=sharing](https://drive.google.com/file/d/1SNo2BHTpMmb9IWMNkpgUgsD22myukgRA/view?usp=sharing)
+- 📝 Know About My Experience: [(https://drive.google.com/file/d/13nYCNZ_lUuEReSvB78dA_XGozChZMThK/view?usp=sharing)]
 
-- 💬 Ask me about: **SQL/Python Data Pipelines, ETL, API, Data Quality, or System Integration**
+- 💬 Ask me about: **SQL/Python Data Pipelines, ETL workflows, Agile environments, or System Integration**
 
 - 📫 How to reach me: **victorpiana13@gmail.com**
 
-- 📄 Linkedin: [https://www.linkedin.com/in/victor-piana-107230238/](https://www.linkedin.com/in/victor-piana-107230238/)
+- 📄 Linkedin: (https://www.linkedin.com/in/victor-piana-107230238/)
 
-- ⚡ Fun fact: **Pianist, Competitive Fitness, Trilingual Traveler (ES/AR)**
+- ⚡ Fun fact: **Pianist, Fitness Enthusiast, Trilingual Traveler (ES/AR)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
