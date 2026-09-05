@@ -13,7 +13,7 @@
 
 - 👨‍💻 My Code Portfolio: [https://github.com/victorpiana](https://github.com/victorpiana)
 
-- 📝 Know About My Experience: [(https://drive.google.com/file/d/13nYCNZ_lUuEReSvB78dA_XGozChZMThK/view?usp=sharing)]
+- 📝 Know About My Experience: CV [https://drive.google.com/file/d/1A5PDF1syPNCqCj0QlRQOO6CLSDHU8C9v/view?usp=share_link]
 
 - 💬 Ask me about: **Product Analytics, Machine Learning, Data Pipelines, or Gamified UX**
 
