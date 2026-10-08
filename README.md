@@ -17,7 +17,7 @@
 
 - 💬 Ask me about: **Product Analytics, Machine Learning, Data Pipelines, or Gamified UX**
 
-- 📫 How to reach me: **victorpiana13@gmail.com**
+- 📫 How to reach me: **victor.piana@polytechnique.edu**
 
 - 📄 Linkedin: (https://www.linkedin.com/in/victor-piana-107230238/)
 
