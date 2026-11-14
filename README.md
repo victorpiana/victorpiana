@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Piana</h1>
-<h3 align="center">Data Scientist & AI for Business | Computer Science Engineer</h3>
+<h3 align="center">Data Scientist & AI for Business | Computer Science Engineer (UTBM)</h3>
 
-- 🎓 **Currently:** Pursuing the joint MSc in Data Science & AI for Business @ **École Polytechnique & HEC Paris (X-HEC)**
+- 🎓 **Education:** MSc Data Science & AI for Business @ **École Polytechnique & HEC Paris (X-HEC)** · Engineering Degree in CS @ **UTBM**
 - 🎯 **Internship Availability:** Looking for a **16+ week internship starting March 22, 2027**
 - ⚙️ **Focus:** Machine Learning, Predictive Modeling, A/B Testing & Data-Driven Decision Making
 - 🛠️ **Tech Stack:** Python (`scikit-learn`, `pandas`, `NumPy`, `Matplotlib`), R, SQL, Big Data (`Spark`, `Hadoop`), ETL (`Talend`, `Airflow`), `Docker`, `Looker Studio`
