@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Piana</h1>
-<h3 align="center">Data Scientist & AI for Business | Computer Science Engineer (UTBM)</h3>
+<h3 align="center">Data Scientist & AI for Business (X-HEC) | Computer Science Engineer (UTBM)</h3>
 
 - 🎓 **Education:** MSc Data Science & AI for Business @ **École Polytechnique & HEC Paris (X-HEC)** · Engineering Degree in CS @ **UTBM**
 - 🎯 **Internship Availability:** Looking for a **16+ week internship starting March 22, 2027**
